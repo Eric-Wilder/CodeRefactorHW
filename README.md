@@ -1,7 +1,7 @@
 # CodeRefactorHW
 For the Code Refactor homework assignment
-
-Brought site to accessibility standards
+<ul>
+  <li>Brought site to accessibility standards</li>
 Added semantic HTML elements
 Consolidated CSS classes
 CSS now follows semantic structure of HTML
